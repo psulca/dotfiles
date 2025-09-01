@@ -1,0 +1,6 @@
+# Archivos de SO
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
